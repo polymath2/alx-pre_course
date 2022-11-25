@@ -3,4 +3,8 @@
 
 #!/bin/bash
 
+<<<<<<< HEAD
 echo "ALX School"
+=======
+echo "ALX is cooli"
+>>>>>>> master
